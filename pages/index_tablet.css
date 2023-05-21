@@ -1,5 +1,17 @@
-@media (min-width: 426px) and (max-width: 769px) {
+@media (max-width: 950px) {
   .header {
     padding: 0 24px;
+  }
+
+  .lead {
+    padding-bottom: 88px;
+  }
+
+  .lead__subtitle {
+    margin-bottom: 56px;
+  }
+
+  .lead__caption {
+    padding-left: 24px;
   }
 }

@@ -1,4 +1,4 @@
-@media (max-width: 425px) {
+@media (max-width: 699px) {
   .header {
     padding: 0 16px;
   }
@@ -14,5 +14,28 @@
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
+  }
+
+  .lead {
+    max-width: 320px;
+    padding-bottom: 64px;
+  }
+
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+  }
+
+  .lead__subtitle {
+    max-width: 288px;
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 40px;
+  }
+
+  .lead__caption {
+    padding-left: 16px;
   }
 }
