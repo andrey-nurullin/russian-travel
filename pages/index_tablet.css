@@ -20,4 +20,9 @@
     margin: 0 auto;
     padding-left: 0;
   }
+
+  .photo {
+    padding: 88px 24px;
+    max-width: 720px;
+  }
 }

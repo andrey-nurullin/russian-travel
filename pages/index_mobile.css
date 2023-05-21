@@ -47,4 +47,9 @@
     font-size: 32px;
     line-height: 35px;
   }
+
+  .photo {
+    max-width: 288px;
+    padding: 64px 16px;
+  }
 }

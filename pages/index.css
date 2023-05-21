@@ -24,6 +24,10 @@
 @import url('../blocks/intro/__list-item/intro__list-item.css');
 @import url('../blocks/intro/__list-item-value/intro__list-item-value.css');
 
+@import url('../blocks/photo/photo.css');
+@import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/photo-grid/__item/photo-grid__item.css');
+
 @import url('../blocks/footer/footer.css');
 
 @import url('index_laptop.css');
