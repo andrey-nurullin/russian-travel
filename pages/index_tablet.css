@@ -14,4 +14,10 @@
   .lead__caption {
     padding-left: 24px;
   }
+
+  .intro {
+    max-width: 720px;
+    margin: 0 auto;
+    padding-left: 0;
+  }
 }

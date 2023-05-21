@@ -38,4 +38,13 @@
   .lead__caption {
     padding-left: 16px;
   }
+
+  .intro {
+    max-width: 288px;
+  }
+
+  .intro__title {
+    font-size: 32px;
+    line-height: 35px;
+  }
 }
