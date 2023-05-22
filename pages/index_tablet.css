@@ -33,4 +33,25 @@
   .photo-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .places {
+    max-width: 100%;
+    padding: 0 24px;
+    margin: 0 auto;
+  }
+
+  .place {
+    grid-template-columns: 340px auto;
+    column-gap: 28px;
+  }
+
+  .place__title {
+    font-size: 42px;
+    line-height: 46px;
+  }
+
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 26px;
+  }
 }

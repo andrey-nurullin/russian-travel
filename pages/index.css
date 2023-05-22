@@ -43,6 +43,8 @@
 @import url('../blocks/place/__text/place__text.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
 
+@import url('../blocks/hover-on-react/hover-on-react.css');
+
 @import url('index_laptop.css');
 @import url('index_tablet.css');
 @import url('index_mobile.css');

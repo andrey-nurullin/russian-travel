@@ -25,4 +25,13 @@
   .photo-grid {
     grid-template-columns: repeat(3, 1fr);
   }
+
+  .places {
+    max-width: 928px;
+  }
+
+  .place {
+    grid-template-columns: 440px auto;
+    column-gap: 32px;
+  }
 }

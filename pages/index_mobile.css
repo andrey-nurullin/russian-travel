@@ -56,4 +56,13 @@
   .photo-grid {
     grid-template-columns: 1fr;
   }
+
+  .places {
+    max-width: 100%;
+  }
+
+  .place {
+    grid-template-columns: 100%;
+    row-gap: 32px;
+  }
 }
