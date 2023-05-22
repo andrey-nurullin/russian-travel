@@ -12,7 +12,7 @@
     padding-left: 48px;
   }
 
-  .photo {
-    max-width: 928px;
+  .photo-grid {
+    grid-template-columns: repeat(3, 1fr);
   }
 }

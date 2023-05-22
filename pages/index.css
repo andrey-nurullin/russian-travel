@@ -27,6 +27,7 @@
 @import url('../blocks/photo/photo.css');
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__item/photo-grid__item.css');
+@import url('../blocks/photo-grid/__item-image/photo-grid__item-image.css');
 
 @import url('../blocks/footer/footer.css');
 

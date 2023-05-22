@@ -49,7 +49,10 @@
   }
 
   .photo {
-    max-width: 288px;
     padding: 64px 16px;
+  }
+
+  .photo-grid {
+    grid-template-columns: 1fr;
   }
 }

@@ -23,6 +23,9 @@
 
   .photo {
     padding: 88px 24px;
-    max-width: 720px;
+  }
+
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
