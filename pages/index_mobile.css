@@ -49,7 +49,8 @@
   }
 
   .photo {
-    padding: 64px 16px;
+    max-width: 288px;
+    padding: 64px 0;
   }
 
   .photo-grid {

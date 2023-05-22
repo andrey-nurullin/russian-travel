@@ -16,12 +16,17 @@
   }
 
   .intro {
-    max-width: 720px;
+    max-width: 100%;
+  }
+
+  .intro__content {
+    max-width: 100%;
+    padding: 0 24px;
     margin: 0 auto;
-    padding-left: 0;
   }
 
   .photo {
+    max-width: 100%;
     padding: 88px 24px;
   }
 
