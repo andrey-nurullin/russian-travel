@@ -5,3 +5,9 @@
   margin: 0 auto;
   padding: 28px 0 24px;
 }
+
+@media (max-width: 699px) {
+  .page__content {
+    padding-top: 16px;
+  }
+}

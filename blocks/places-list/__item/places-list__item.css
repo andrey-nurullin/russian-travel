@@ -5,3 +5,15 @@
 .places-list__item:last-of-type {
   margin-bottom: 0;
 }
+
+@media (max-width: 950px) {
+  .places-list__item {
+    margin-bottom: 73px;
+  }
+}
+
+@media (max-width: 699px) {
+  .places-list__item {
+    margin-bottom: 50px;
+  }
+}
