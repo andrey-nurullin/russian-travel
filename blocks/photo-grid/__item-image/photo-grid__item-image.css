@@ -1,4 +1,6 @@
 .photo-grid__item-image {
   width: 100%;
   vertical-align: bottom;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
 }
