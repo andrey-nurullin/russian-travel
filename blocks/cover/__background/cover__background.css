@@ -1,4 +1,6 @@
 .cover__background {
+  position: relative;
+  z-index: 1;
   width: 100%;
   text-decoration: none;
   color: #ffffff;
@@ -6,5 +8,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 500px;
+  background-image: url('../../../images/cover-trains.jpg');
+  background-size: contain;
+  aspect-ratio: 8 / 5;
+}
+
+.cover__background:hover .cover__overlay {
+  opacity: 0.8;
 }

@@ -73,4 +73,21 @@
   .place__title, .place__website, .place__text {
     padding: 0 24px;
   }
+
+  .cover {
+    padding: 66px 0 64px;
+  }
+
+  .cover__title {
+    max-width: 250px;
+    line-height: 1.09;
+    font-size: 32px;
+    margin: 0 0 16px;
+  }
+
+  .cover__subtitle {
+    max-width: 288px;
+    line-height: 1.14;
+    font-size: 14px;
+  }
 }
