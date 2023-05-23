@@ -1,3 +1,11 @@
 .intro__content {
   max-width: 690px;
 }
+
+@media (max-width: 950px) {
+  .intro__content {
+    max-width: 100%;
+    padding: 0 24px;
+    margin: 0 auto;
+  }
+}

@@ -4,3 +4,16 @@
   margin: 0 auto;
   padding: 56px 0 92px;
 }
+
+@media (max-width: 1100px) {
+  .lead {
+    max-width: 928px;
+    padding-bottom: 88px;
+  }
+}
+
+@media (max-width: 950px) {
+  .lead {
+    padding-bottom: 88px;
+  }
+}

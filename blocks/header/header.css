@@ -3,3 +3,15 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media (max-width: 950px) {
+  .header {
+    padding: 0 24px;
+  }
+}
+
+@media (max-width: 699px) {
+  .header {
+    padding: 0 16px;
+  }
+}
