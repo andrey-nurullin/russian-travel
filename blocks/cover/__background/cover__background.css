@@ -1,0 +1,10 @@
+.cover__background {
+  width: 100%;
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
