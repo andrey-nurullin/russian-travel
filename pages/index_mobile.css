@@ -13,7 +13,7 @@
 
   .header__lang-link {
     font-size: 18px;
-    line-height: 20px;
+    line-height: 1.11;
   }
 
   .lead {
@@ -23,14 +23,14 @@
   .lead__title {
     max-width: 288px;
     font-size: 40px;
-    line-height: 44px;
+    line-height: 1.1;
   }
 
   .lead__subtitle {
     max-width: 288px;
     margin-top: 16px;
     font-size: 16px;
-    line-height: 20px;
+    line-height: 1.25;
     margin-bottom: 40px;
   }
 
@@ -40,7 +40,7 @@
 
   .intro__title {
     font-size: 32px;
-    line-height: 35px;
+    line-height: 1.09;
   }
 
   .intro__content {
@@ -48,7 +48,6 @@
   }
 
   .photo {
-    /* max-width: 288px; */
     padding: 64px 16px;
   }
 
@@ -64,6 +63,11 @@
   .place {
     grid-template-columns: 100%;
     row-gap: 32px;
+  }
+
+  .place__title {
+    font-size: 32px;
+    line-height: 1.09;
   }
 
   .place__title, .place__website, .place__text {
