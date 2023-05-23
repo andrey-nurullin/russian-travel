@@ -49,6 +49,12 @@
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../blocks/cover/__overlay/cover__overlay.css');
 
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__menu-list/footer__menu-list.css');
+@import url('../blocks/footer/__menu-item/footer__menu-item.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/footer/__menu-item-link/footer__menu-item-link.css');
+
 @import url('../blocks/hover-on-react/hover-on-react.css');
 
 @import url('index_laptop.css');
