@@ -2,3 +2,9 @@
   justify-self: start;
   align-self: end;
 }
+
+@media (max-width: 699px) {
+  .place__website {
+    padding: 0 24px;
+  }
+}

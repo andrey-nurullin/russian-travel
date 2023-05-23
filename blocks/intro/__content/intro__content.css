@@ -9,3 +9,9 @@
     margin: 0 auto;
   }
 }
+
+@media (max-width: 699px) {
+  .intro__content {
+    padding: 0 16px;
+  }
+}

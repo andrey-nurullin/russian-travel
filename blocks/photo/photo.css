@@ -17,3 +17,9 @@
     padding: 88px 24px;
   }
 }
+
+@media (max-width: 699px) {
+  .photo {
+    padding: 64px 16px;
+  }
+}

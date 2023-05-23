@@ -17,3 +17,10 @@
     margin: 0 auto;
   }
 }
+
+@media (max-width: 699px) {
+  .places {
+    max-width: 100%;
+    padding: 0;
+  }
+}
