@@ -13,6 +13,6 @@
   aspect-ratio: 8 / 5;
 }
 
-.cover__background:hover .cover__overlay {
+.cover__background:hover > *:first-child {
   opacity: 0.8;
 }
